@@ -7,7 +7,7 @@
 
 ## 📊 Overview
 
-Expense Analyzer 2.0 is a user-friendly desktop application for tracking and visualizing personal expenses using statistical boxplots. The tool helps you understand your spending patterns through powerful data visualization.
+Expense Analyzer 2.0 is a user-friendly desktop application for tracking and visualizing personal expenses using statistical boxplots. The tool helps you understand your spending patterns through powerful data visualization. 
 
 ![Expense Analyzer Application](./images/screenshot.png)
 
